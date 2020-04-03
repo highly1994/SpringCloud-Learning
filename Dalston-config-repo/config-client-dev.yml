@@ -1,0 +1,3 @@
+info:
+  profiles: dev
+  from: git-repo
